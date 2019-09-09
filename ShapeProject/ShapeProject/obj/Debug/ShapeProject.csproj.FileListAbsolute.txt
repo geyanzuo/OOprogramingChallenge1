@@ -1,0 +1,6 @@
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeProject\bin\Debug\ShapeProject.dll
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeProject\bin\Debug\ShapeProject.pdb
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeProject\obj\Debug\ShapeProject.csprojAssemblyReference.cache
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeProject\obj\Debug\ShapeProject.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeProject\obj\Debug\ShapeProject.dll
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeProject\obj\Debug\ShapeProject.pdb

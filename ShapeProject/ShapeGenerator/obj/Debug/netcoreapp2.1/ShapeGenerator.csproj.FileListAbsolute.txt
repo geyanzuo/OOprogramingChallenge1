@@ -1,0 +1,14 @@
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeGenerator.deps.json
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeGenerator.runtimeconfig.json
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeGenerator.runtimeconfig.dev.json
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeGenerator.dll
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeGenerator.pdb
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeProject.dll
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\bin\Debug\netcoreapp2.1\ShapeProject.pdb
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.csprojAssemblyReference.cache
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.AssemblyInfoInputs.cache
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.AssemblyInfo.cs
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.csproj.CopyComplete
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.dll
+C:\Users\102146016\Documents\GitHub\OOprogramingChallenge1\ShapeProject\ShapeGenerator\obj\Debug\netcoreapp2.1\ShapeGenerator.pdb

@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\QuadrilateralTest\\QuadrilateralTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\QuadrilateralTest\\QuadrilateralTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\QuadrilateralTest\\QuadrilateralTest.csproj",
+        "projectName": "QuadrilateralTest",
+        "projectPath": "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\QuadrilateralTest\\QuadrilateralTest.csproj",
+        "packagesPath": "C:\\Users\\102146016\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\QuadrilateralTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\102146016\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\ShapeProject\\ShapeProject.csproj": {
+                "projectPath": "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\ShapeProject\\ShapeProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\ShapeProject\\ShapeProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\ShapeProject\\ShapeProject.csproj",
+        "projectName": "ShapeProject",
+        "projectPath": "C:\\Users\\102146016\\Documents\\GitHub\\OOprogramingChallenge1\\ShapeProject\\ShapeProject\\ShapeProject.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
