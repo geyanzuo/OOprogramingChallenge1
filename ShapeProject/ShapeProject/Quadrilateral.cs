@@ -15,6 +15,7 @@ namespace ShapeProject
 
         public Quadrilateral(int psidelength1, int psidelength2, int psidelength3, int psidelength4, string pcolor) : base(pcolor)
         {
+
             SideLength1 = psidelength1;
             SideLength2 = psidelength2;
             SideLength3 = psidelength3;

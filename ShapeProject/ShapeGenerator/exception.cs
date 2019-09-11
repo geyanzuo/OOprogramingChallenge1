@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ShapeGenerator
 {
-    public class LessThanZeroExecption: Exception
+    public class LessThanOneExecption: Exception
     {
-        public LessThanZeroExecption()
+        public LessThanOneExecption()
         {
 
         }
